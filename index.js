@@ -16,4 +16,4 @@ if (true) {
     function changeFeaturedDrink() {
         featuredDrink = 'The JavaShake';
     }
-    console.log('Inside block - Featured Drink:', featuredDrink);
+    console.log('Inside block - Featured Drink:', featuredDrink);}
